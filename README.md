@@ -1,6 +1,10 @@
 # electron 앱을 작성하기 위해 생성 
 
-참조 : https://www.electronjs.org/docs/tutorial/quick-start#electron-api
+참조 
+electron sample : https://www.electronjs.org/docs/tutorial/quick-start#electron-api
+
+the-ultimate-guide-to-electron-with-react : https://medium.com/folkdevelopers/the-ultimate-guide-to-electron-with-react-8df8d73f4c97 
+
 
 1. NPM 또는 yarn 으로 electron 설치
     ## npm 설치시 
