@@ -1,3 +1,5 @@
+# electron 앱을 작성하기 위해 생성 
+
 참조 : https://www.electronjs.org/docs/tutorial/quick-start#electron-api
 
 1. NPM 또는 yarn 으로 electron 설치
